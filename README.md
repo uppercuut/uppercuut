@@ -3,7 +3,7 @@
 ### Talk to me about anything.
 
 
-https://github-readme-stats.vercel.app/api?username=uppercuut
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uppercuut)]
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uppercuut)](https://github.com/anuraghazra/github-readme-stats)
